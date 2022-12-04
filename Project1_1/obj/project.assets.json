@@ -8,32 +8,26 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\athen\\.nuget\\packages\\": {},
-    "D:\\Programs\\Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ACER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Word\\New folder\\Project1_1\\Project1_1\\Project1_1\\Project1_1.csproj",
+      "projectUniqueName": "E:\\Git\\WSMDemo\\Project1_1\\Project1_1.csproj",
       "projectName": "Project1_1",
-      "projectPath": "D:\\Documents\\Word\\New folder\\Project1_1\\Project1_1\\Project1_1\\Project1_1.csproj",
-      "packagesPath": "C:\\Users\\athen\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Word\\New folder\\Project1_1\\Project1_1\\Project1_1\\obj\\",
+      "projectPath": "E:\\Git\\WSMDemo\\Project1_1\\Project1_1.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "E:\\Git\\WSMDemo\\Project1_1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Programs\\Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\athen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows"
+        "net5.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -57,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -70,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }
